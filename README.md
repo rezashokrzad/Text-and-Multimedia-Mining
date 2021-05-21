@@ -17,4 +17,5 @@
 > Topic modeling
 > 
 > Event detection 
-> 
+
+_ Simple Transformers (NER BERT)
