@@ -18,4 +18,4 @@
 > 
 > Event detection 
 
-_ Simple Transformers (NER BERT)
+- Simple Transformers (NER BERT)
